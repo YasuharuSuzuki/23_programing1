@@ -1,4 +1,4 @@
-# 22年後期 プログラミングI
+# 23年後期 プログラミングI
 
 <br>
 
@@ -29,11 +29,6 @@
 [サンプルコードはココ](http://www.sotechsha.co.jp/sp/1167/)
 <div align="center">
 <img src="./etc/image/python3_intro_large.jpg" alt="Python3入門ノート" title="Python3入門ノート" width=240>
-</div>
-
-[参考書「アルゴリズム的思考力が身につく！プログラミングコンテストAtCoder入門」（大槻兼資、KADOKAWA、22/08/01）](https://www.amazon.co.jp/dp/404604408X/)<br>
-<div align="center">
-<img src="./etc/image/atcoder_sika.jpg" alt="AtCoder入門" title="AtCoder入門" width=240>
 </div>
 
 <br>
