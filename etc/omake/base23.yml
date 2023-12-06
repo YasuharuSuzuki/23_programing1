@@ -18,3 +18,4 @@ dependencies:
   - pip
   - pip:
     - japanize-matplotlib # データ分析用可視化ライブラリの日本語化ツール
+    - neologdn # 日本語正規化ライブラリ
