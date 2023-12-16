@@ -1,0 +1,5 @@
+P C
+C P
+C C
+P P
+G P
